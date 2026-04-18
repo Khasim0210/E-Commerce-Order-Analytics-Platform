@@ -58,6 +58,5 @@
         - name: Run dbt tests
           working-directory: dbt_project                                                             
           run: dbt test                                                                            
-  EOF
 
 
